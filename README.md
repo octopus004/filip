@@ -1,7 +1,8 @@
 # filip
 Compared complexity on lists - ['f', 'i', 'l', 'i', 'p'] , ['n','i','k','o','l','i','n','a']
 | Algorithm      | Comparisons  | Swaps / Accesses  |
-                  filip|nikolina  filip | nikolina
+|----------------|--------------|-------------------|
+|                |filip|nikolina| filip | nikolina  |
 |----------------|--------------|-------------------|
 | Bubble Sort    |  10 | 28     |   1   |  16       |
 | Insertion Sort |  5  | 21     |   1   |  16       |
